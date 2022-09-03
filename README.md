@@ -8,7 +8,22 @@
 elvinyusifov1/elvinyusifov1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+***
 
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=elvinyusifov1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+
+
+<a href="https://github.com/DrMadWill"><img alt="DrMadWill's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elvinyusifov1&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" align='right' /></a>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinyusifov1&langs_count=5&theme=tokyonight)]()
+
+  
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elvinyusifov1&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
 
   
  <h1 align="left" > Connect with me : <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="bash" width="80" /></h1>
