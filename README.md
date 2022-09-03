@@ -1,7 +1,7 @@
 
 # Name : Elvin Yusifov
 
-<img src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif" align="right" >
+
 
 <font align="left"  color="gray"><h2>Front End Developer</h2>
 
